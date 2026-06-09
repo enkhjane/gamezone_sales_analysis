@@ -1,4 +1,4 @@
-# GameZone_Sales_Analysis
+# GameZone Sample Company Sales Analysis
 
 ## Project Overview
 SQL analysis of 21,864 gaming product orders from 2019–2021 using PostgreSQL and pgAdmin.
