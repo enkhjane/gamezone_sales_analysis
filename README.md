@@ -26,6 +26,22 @@ Data source: Christine Jiang.
 5. Platform comparison (website vs mobile app)
 6. Regional analysis (NA, EMEA, APAC, LATAM)
 
+## Charts
+### Monthly Revenue Trend
+![Monthly Revenue](monthly_revenue.png)
+
+### Top Products by Revenue
+![Top Products](top_products.png)
+
+### Refund Rate by Product
+![Refund Rate](refund.png)
+
+### Revenue by Marketing Channel
+![Marketing Channels](marketing_channels_revenue.png)
+
+### Revenue by Region
+![Regional Analysis](region.png)
+
 ## Tools Used
 - Excel
 - PostgreSQL
